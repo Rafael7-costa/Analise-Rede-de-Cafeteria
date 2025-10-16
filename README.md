@@ -34,7 +34,7 @@ Sr. Oliveira fundou o Aroma Café há dez anos, quando percebeu uma lacuna no me
 ### Passo 4: Levantar as Hipóteses para responder a pergunta de negócio
 ### Passo 5: Priorização das hipóteses 
   - Verificar os dados disponíveis
-	- Insights acionáveis 
+  - Insights acionáveis 
 ### Passo 6: Dividir a analise em 4 partes ( Análise Descritiva, Análise Diagnóstica, Análise Preditiva e Análise Prescritiva) 
 ### Passo 7: Montar um protótipo de visualização para cada análise
 ### Passo 8: Definir as ferramentas - Google Sheets, Tabela Dinâmica, Gráficos para visualização e XLminer Analysis toolPack (Ferramenta Estatística) 
@@ -71,7 +71,7 @@ Alavancas que podem melhorar o desempenho
 - Os Produtos?
 - As Categorias?
 
-# NSIGTHS DA ANALISE
+# INSIGTHS DA ANALISE
 
  ## 1. Análise Descritiva
 

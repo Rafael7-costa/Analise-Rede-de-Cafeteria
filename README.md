@@ -98,7 +98,12 @@ As Categorias com maior faturamento são:
 Coffee						
 Tea						
 
-		*Print*
+![Análise 1](img/1.png)
+![Análise 2](img/2.png)
+![Análise 3](img/3.png)
+![Análise 4](img/4.png)
+![Análise 5](img/5.png)
+![Análise 6](img/6.png)
 
 ## 2. Análise Diagnóstica
 
@@ -109,11 +114,12 @@ O preço unitário dos produtos teve uma correlação levemente negativa com o f
 										
 Entretanto mesmo com o preço impactando de forma negativa, a quantidade de produtos por atendimento fechou com crescimento de 0,30% quanto menor o preço maior o volume de itens comprados
 
-		*Print*
+![Análise 7](img/7.png)
+![Análise 8](img/8.png)
 
 Foi utilizado a Correlação de Spearman para medir a força entre os elementos
 
-		*Print*										
+![Análise 9](img/9.png)									
 											
 ## 3. Análise Preditiva
 
@@ -126,7 +132,7 @@ Erro médio (por dia) de R$ 363,84 reais
 Previsão de Faturamento						
 Julho	R$ 188.160,50	
 						
-		*Print*				
+![Análise 10](img/10.png)			
 
 ## 4. Análise Prescritiva
 
@@ -136,7 +142,7 @@ Mais Variedade de produtos é uma forma de trazer novidades para a cafeteria aum
 Avaliar melhor sobre alterações no preço e testar em curtos períodos aumento ou diminuição do mesmo, pois pode trazer um prejuízo de R$1.208 por dia				
 Adicionar mais produtos aos pedidos pode significar mais lucro, de até R$2.396 por dia					
 		
-		*Print*				
+![Análise 11](img/11.png)			
 
 
 # RESULTADO/ RECOMENDAÇÃO

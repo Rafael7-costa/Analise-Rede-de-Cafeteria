@@ -49,7 +49,7 @@ Sr. Oliveira fundou o Aroma Café há dez anos, quando percebeu uma lacuna no me
 - Qual o faturamento por Produto?
 - Qual o faturamento por Categoria?
 
-	### 2. Análise Diagnóstica
+### 2. Análise Diagnóstica
 - Qual a influencia do Faturamento?
 - Qual a influencia do Pedidos?
 - Qual a influencia do Produtos por Pedido?

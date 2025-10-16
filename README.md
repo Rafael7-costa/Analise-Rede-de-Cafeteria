@@ -107,7 +107,8 @@ Tea
 
 ## 2. Análise Diagnóstica
 
-Resultado da Análise Diagnostica											
+Resultado da Análise Diagnostica
+
 A cafeteria teve um crescimento total de 80% dentro do período analisado, com o mês de Fevereiro em decaimento de -6,77%											
 Tendo uma forte correlação com a quantidade de pedidos, o faturamento das lojas e o tamanho do produtos que teve a performance  similar, pois crescem e decrescem na mesma proporção											
 O preço unitário dos produtos teve uma correlação levemente negativa com o faturamento impactando o preço total dos pedidos fechando com -0,75%
@@ -123,7 +124,8 @@ Foi utilizado a Correlação de Spearman para medir a força entre os elementos
 											
 ## 3. Análise Preditiva
 
-Resultado da Análise Preditiva						
+Resultado da Análise Preditiva	
+
 A análise mostrou uma previsão de crescimento no faturamento no mês de Julho com as seguintes informações:						
 Margem de Erro para o Mês de Julho  						
 Erro de 8,64%						
@@ -136,7 +138,8 @@ Julho	R$ 188.160,50
 
 ## 4. Análise Prescritiva
 
-Resultado da Análise Prescritiva						
+Resultado da Análise Prescritiva	
+
 O aumento de Categorias pode causar uma queda no faturamento de R$745 por dia 						
 Mais Variedade de produtos é uma forma de trazer novidades para a cafeteria aumentando o faturamento em R$349 por dia					
 Avaliar melhor sobre alterações no preço e testar em curtos períodos aumento ou diminuição do mesmo, pois pode trazer um prejuízo de R$1.208 por dia				

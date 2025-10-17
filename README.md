@@ -126,7 +126,7 @@ Entretanto mesmo com o preço impactando de forma negativa, a quantidade de prod
 ![Análise 7](img/7.png)
 ![Análise 8](img/8.png)
 
-Foi utilizado a Correlação de Spearman para medir a força entre os elementos
+Foi utilizado a Correlação de Spearman para medir a força entre os elementos (quanto mais próximo de 1 maior a correção entre as variáveis)
 
 ![Análise 9](img/9.png)									
 											

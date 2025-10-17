@@ -32,12 +32,20 @@ Sr. Oliveira fundou o Aroma Café há dez anos, quando percebeu uma lacuna no me
 #### Passo 2: Definição da coluna fato
 #### Passo 3: Identificação das dimensões
 #### Passo 4: Levantar as Hipóteses para responder a pergunta de negócio
-#### Passo 5: Priorização das hipóteses 
+#### Passo 5: Priorização das hipóteses: 
   - Verificar os dados disponíveis
   - Insights acionáveis 
-#### Passo 6: Dividir a analise em 4 partes ( Análise Descritiva, Análise Diagnóstica, Análise Preditiva e Análise Prescritiva) 
+#### Passo 6: Dividir a analise em 4 partes:
+  - Análise Descritiva
+  - Análise Diagnóstica
+  - Análise Preditiva
+  - Análise Prescritiva
 #### Passo 7: Montar um protótipo de visualização para cada análise
-#### Passo 8: Definir as ferramentas - Google Sheets, Tabela Dinâmica, Gráficos para visualização e XLminer Analysis toolPack (Ferramenta Estatística) 
+#### Passo 8: Definir as ferramentas:
+  - Google Sheets
+  - Tabela Dinâmica
+  - Gráficos para visualização
+  - XLminer Analysis toolPack (Ferramenta Estatística) 
 
 # HIPOTESES ANALISADAS
  ### 1. Análise Descritiva
